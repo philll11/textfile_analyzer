@@ -1,0 +1,17 @@
+c:\users\admin\documents\visual studio 2017\Projects\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe
+c:\users\admin\documents\visual studio 2017\Projects\Assignment_4\Assignment_4\bin\Debug\Assignment_4.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Assignment_4\Assignment_4\obj\Debug\Assignment_4.MainWindow.resources
+c:\users\admin\documents\visual studio 2017\Projects\Assignment_4\Assignment_4\obj\Debug\Assignment_4.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\Assignment_4\Assignment_4\obj\Debug\Assignment_4.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\Assignment_4\Assignment_4\obj\Debug\Assignment_4.exe
+c:\users\admin\documents\visual studio 2017\Projects\Assignment_4\Assignment_4\obj\Debug\Assignment_4.pdb
+C:\Users\admin\Desktop\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe.config
+C:\Users\admin\Desktop\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe
+C:\Users\admin\Desktop\Assignment_4\Assignment_4\bin\Debug\Assignment_4.pdb
+C:\Users\admin\Desktop\Assignment_4\Assignment_4\obj\Debug\Assignment_4.MainWindow.resources
+C:\Users\admin\Desktop\Assignment_4\Assignment_4\obj\Debug\Assignment_4.Properties.Resources.resources
+C:\Users\admin\Desktop\Assignment_4\Assignment_4\obj\Debug\Assignment_4.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Assignment_4\Assignment_4\obj\Debug\Assignment_4.exe
+C:\Users\admin\Desktop\Assignment_4\Assignment_4\obj\Debug\Assignment_4.pdb
+C:\Users\admin\Desktop\Assignment_4\Assignment_4\obj\Debug\Assignment_4.csprojResolveAssemblyReference.cache
